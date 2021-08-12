@@ -1,0 +1,8 @@
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\bin\Debug\netcoreapp2.1\ElasticDomain.deps.json
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\bin\Debug\netcoreapp2.1\ElasticDomain.dll
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\bin\Debug\netcoreapp2.1\ElasticDomain.pdb
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\obj\Debug\netcoreapp2.1\ElasticDomain.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\obj\Debug\netcoreapp2.1\ElasticDomain.AssemblyInfoInputs.cache
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\obj\Debug\netcoreapp2.1\ElasticDomain.AssemblyInfo.cs
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\obj\Debug\netcoreapp2.1\ElasticDomain.dll
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticDomain\obj\Debug\netcoreapp2.1\ElasticDomain.pdb

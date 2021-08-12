@@ -1,0 +1,12 @@
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\bin\Debug\netcoreapp2.1\ElasticApplication.deps.json
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\bin\Debug\netcoreapp2.1\ElasticApplication.dll
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\bin\Debug\netcoreapp2.1\ElasticApplication.pdb
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\bin\Debug\netcoreapp2.1\ElasticDomain.dll
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\bin\Debug\netcoreapp2.1\ElasticDomain.pdb
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.csprojAssemblyReference.cache
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.AssemblyInfoInputs.cache
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.AssemblyInfo.cs
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.csproj.CopyComplete
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.dll
+C:\Users\zeeshan.shaheen\source\repos\ElasticSearch\ElasticApplication\obj\Debug\netcoreapp2.1\ElasticApplication.pdb
